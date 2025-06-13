@@ -14,7 +14,7 @@
 5. **zīmē** publikācijas attēlus un interaktīvu HTML karti;  
 6. **ģenerē** pavadošo LaTeX protokolu.
 
-Pēc noklusējuma tiek apstrādāti ≈ 20 milj. zvaigžņu (|b| < 20°, G < 18); pilna palaišana uz 16 GB portatīvā datora aizņem ~10 min.
+Pēc noklusējuma tiek apstrādāti ≈ 20 milj. zvaigžņu (|b| < 20°, G < 18); pilna palaišana uz 16 GB portatīvā datora aizņem ~2 st.
 
 ---
 
