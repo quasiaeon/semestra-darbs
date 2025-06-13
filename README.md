@@ -21,7 +21,7 @@ Pēc noklusējuma tiek apstrādāti ≈ 20 milj. zvaigžņu (|b| < 20°, G
 ## 2 · Mapes uzbūve
 
 ```
-├── data/                 # Parquet faili (ģenerējas pirmajā palaišanā)
+├── data/                 # nav iekļauti
 │   ├── stars_raw.parquet
 │   └── stars_clean.parquet
 ├── output/               # Vokseļkubi & figūras
