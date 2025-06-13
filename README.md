@@ -11,8 +11,7 @@
 2. **attīra** paralakses, aprēķina Bayesa distance un izdzišanu;  
 3. **vokseļo** Piena Ceļa disku trīs dimensijās;  
 4. **propagē kļūdas** ar 1 000 Monte‑Karlo realizācijām;  
-5. **zīmē** publikācijas attēlus un interaktīvu HTML karti;  
-6. **ģenerē** pavadošo LaTeX protokolu.
+5. **zīmē** attēlus un interaktīvu HTML karti;  
 
 Pēc noklusējuma tiek apstrādāti ≈ 20 milj. zvaigžņu (|b| < 20°, G < 18); pilna palaišana uz 16 GB portatīvā datora aizņem ~2 st.
 
@@ -34,8 +33,7 @@ Pēc noklusējuma tiek apstrādāti ≈ 20 milj. zvaigžņu (|b| < 20°, G
 ├── spectral_analysis.py  # 3. pakāpe (pēc izvēles)
 ├── create_map.py         # 4. pakāpe
 ├── run_pipeline.py       # 5. pakāpe
-├── milky_way_protocol.tex
-└── references.bib
+
 ```
 
 ---
