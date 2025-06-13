@@ -5,7 +5,7 @@
 
 ## 1 · Kas tas ir?
 
-Šis repozitorijs satur pilnībā reproducējamu cauruļvadu, kas
+Šis repozitorijs satur pilnībā reproducējamu pipeline, kas
 
 1. **lejupielādē** izvēlētu Gaia DR3 daļu;  
 2. **attīra** paralakses, aprēķina Bayesa distance un izdzišanu;  
