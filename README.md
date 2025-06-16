@@ -23,7 +23,7 @@ Pēc noklusējuma tiek apstrādāti ≈ 20 milj. zvaigžņu (|b| < 20°, G
 ├── data/                 # nav iekļauti
 │   ├── stars_raw.parquet
 │   └── stars_clean.parquet
-├── output/               # Vokseļkubi & figūras
+├── output/               # Vokseļkubi & figūras (filesize > 50 MB, not uploadable to GitHub)
 │   ├── voxel_cube.npz
 │   ├── error_cube.npz
 │   ├── volume.png
