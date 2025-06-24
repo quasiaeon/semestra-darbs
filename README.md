@@ -30,6 +30,7 @@ Pēc noklusējuma tiek apstrādāti ≈ 20 milj. zvaigžņu (|b| < 20°, G
 │   └── milky_way_map_scatter.html
 │   └── milky_way_polar_map.html
 │   └── polar_slice.html
+│   └── hz_fit.png
 ├── download_data.py      # 1. pakāpe
 ├── process_data.py       # 2. pakāpe
 ├── spectral_analysis.py  # 3. pakāpe (pēc izvēles)
