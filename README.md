@@ -23,11 +23,13 @@ Pēc noklusējuma tiek apstrādāti ≈ 20 milj. zvaigžņu (|b| < 20°, G
 ├── data/                 # nav iekļauti
 │   ├── stars_raw.parquet
 │   └── stars_clean.parquet
-├── output/               # Vokseļkubi & figūras (filesize > 50 MB, not uploadable to GitHub)
+├── output/               # Vokseļkubi & figūras
 │   ├── voxel_cube.npz
 │   ├── error_cube.npz
 │   ├── volume.png
-│   └── milky_way_map.html
+│   └── milky_way_map_scatter.html
+│   └── milky_way_polar_map.html
+│   └── polar_slice.html
 ├── download_data.py      # 1. pakāpe
 ├── process_data.py       # 2. pakāpe
 ├── spectral_analysis.py  # 3. pakāpe (pēc izvēles)
